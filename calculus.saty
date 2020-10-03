@@ -1,0 +1,15 @@
+@require: stdjareport
+document (|
+title = {微積の証明を丁寧に書いてみる};
+author = {tawashichan};
+|) '<
+    +chapter{実数の公理と実数列の性質}<
+        +p{
+            本書においては,
+        }
+        +p{
+            \SATySFi; でのはじめての段落の記述です．
+            段落は \dfn{ブロックコマンド} で実現されています．
+        }
+    >
+>
